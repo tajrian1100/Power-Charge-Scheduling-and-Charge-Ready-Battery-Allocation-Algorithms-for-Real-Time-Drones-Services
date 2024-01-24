@@ -1,5 +1,7 @@
 # Power-Charge-Scheduling-and-Charge-Ready-Battery-Allocation-Algorithms-for-Real-Time-Drones-Services
 This is one of my journal publications.
+
+
 Abstract: The Unmanned Aerial Vehicle (UAV) is one of the most precious inventions of Internet of things (IOT). UAV faces the necessity to
 charge battery or replace battery from the charging stations during or between services. We propose scheduling algorithms for drone
 power charging (SADPC). The basic idea of algorithm is considering both a deadline (for increasing deadline miss ratio) and a charging
